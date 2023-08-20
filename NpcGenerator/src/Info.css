@@ -1,0 +1,18 @@
+.infoContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh; /* Use full viewport height */
+    padding: 20px;
+}
+
+.infoContainer h1 {
+    margin: 0;
+    padding-top: 20px;
+}
+
+.infoContainer h3 {
+    margin: 10px 0;
+    line-height: 1.4;
+}
